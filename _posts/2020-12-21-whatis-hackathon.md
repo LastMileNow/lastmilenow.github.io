@@ -3,7 +3,7 @@ layout: post
 title: What is a Hackathon?
 subtitle: Learning, Community Fun 
 cover-img: 
-thumbnail-img: /assets/img/hacker_def.png
+thumbnail-img: /assets/img/logo-white.png
 share-img: 
 tags: [tech, c4ac]
 ---
