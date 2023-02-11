@@ -13,4 +13,4 @@ However, it is important to note that this is not a universal phenomenon and can
 
 In our view, a personalized voice can be a powerful tool for improving communication and engagement. It can help people feel more comfortable and confident when interacting with a chatbot, and it can also help them feel more connected to the chatbot and the brand it represents. In addition, a personalized voice can help people feel more comfortable and confident when interacting with a chatbot, and it can also help them feel more connected to the chatbot and the brand it represents.
 
-We plan to achieve this by providing a personalized voice for each user by allowing them to answer some questions that can capture their personalities, also upload them to upload their voice clips.
+We plan to provide a personalized voice for each user by allowing them to answer some questions that can best capture their personalities, also allow them to upload their voice clips to we can train our model to sound like them.
