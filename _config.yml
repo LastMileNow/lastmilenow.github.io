@@ -21,10 +21,13 @@ author: Darren Weng & Gabe Weng
 
 navbar-links:
   About Us: "aboutme"
-  Posts: "tags"
-  Researches: "researches"
-  Communities & Rankings:
-    - GitHub (Open-Source): "https://github.com/LastMileNow"
+  Blogs: "tags"
+  Researches/Projects: "researches"
+  Github:
+    - LastMileNow: "https://github.com/LastMileNow"
+    - CiceroAI: "https://github.com/gabeweng/cicero"
+    - Chiron: "https://github.com/darrentweng/chiron"
+    - Aesculapius: "https://github.com/gabeweng/aesculapius-backend"
 
 ################
 # --- Logo --- #
