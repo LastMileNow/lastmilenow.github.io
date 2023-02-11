@@ -22,12 +22,12 @@ author: Darren Weng & Gabe Weng
 navbar-links:
   About Us: "aboutme"
   Blogs: "tags"
-  Researches/Projects: "researches"
-  Github:
-    - LastMileNow: "https://github.com/LastMileNow"
-    - CiceroAI: "https://github.com/gabeweng/cicero"
-    - Chiron: "https://github.com/darrentweng/chiron"
-    - Aesculapius: "https://github.com/gabeweng/aesculapius-backend"
+  Researches/Projects: 
+    - Our Projects: "researches"
+    - LastMileNow Github: "https://github.com/LastMileNow"
+    - CiceroAI Github: "https://github.com/gabeweng/cicero"
+    - Chiron Github: "https://github.com/darrentweng/chiron"
+    - Aesculapius Github: "https://github.com/gabeweng/aesculapius-backend"
 
 ################
 # --- Logo --- #
