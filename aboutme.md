@@ -8,7 +8,7 @@ Last Mile Now is a non-profit organization that provides free, on-demand, access
 
 ## Our Mission
 
-We believe that everyone should have access to the same opportunities. We are committed to use technologies such as AI, chatbot and text messages to provide a platform for services in areas such as healthcare, education, and employment. We are currently working on our first pilot program in the Fairfield County area.
+We believe that everyone should have access to the same opportunities. We are committed to leverage the existing resources on the internet, and use technologies such as AI, chatbot and text messages and instagram to provide an information delivery platform in areas such as healthcare, education, and employment. We are currently working on our first pilot program in the Fairfield County area.
 
 
 ## Our Team
