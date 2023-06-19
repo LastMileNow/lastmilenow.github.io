@@ -7,9 +7,12 @@ thumbnail-img: /assets/img/committees_logo.jpg
 share-img: 
 tags: [chatbot, education, healthcare]
 ---
+
+Last Mile Now started as an open source organization with the aim of solving the “last mile issue”, the most expensive and difficult part of any product deployment in technology.
+
 ## Our Viion 1.0
 
-Last Mile Now started as an open source organization with the aim of solving the “last mile issue”, the most expensive and difficult part of any product deployment in technology. There is a vast amount of great resources and information online, but delivering them at the right time to the right person might be challenging due to factors such as languages spoken, education level, habits, etc. We wanted to change that.
+ There is a vast amount of great resources and information online, but delivering them at the right time to the right person might be challenging due to factors such as languages spoken, education level, habits, etc. We wanted to change that.
 
 We believe a personalized chatbot that understands individual's needs can unleash the potential of the internet for everyone. In the US, on average, a person spends 2 hours and 31 minutes daily on social media and text apps. We are committed to using technologies such as AI, chatbots, text messages, and social media such as Instagram to create an effective information delivery platform.
 
