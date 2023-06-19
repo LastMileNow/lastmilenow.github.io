@@ -10,7 +10,7 @@ tags: [chatbot, education, healthcare]
 
 Last Mile Now started as an open source organization with the aim of solving the “last mile issue”, the most expensive and difficult part of any product deployment in technology.
 
-## Our Viion 1.0
+## Our Vision 1.0
 
  There is a vast amount of great resources and information online, but delivering them at the right time to the right person might be challenging due to factors such as languages spoken, education level, habits, etc. We wanted to change that.
 
