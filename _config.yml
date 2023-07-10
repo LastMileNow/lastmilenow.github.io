@@ -20,7 +20,7 @@ author: Darren Weng & Gabe Weng
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "about"
   Blogs: "tags"
   Researches/Projects: 
     - Our Projects: "researches"
