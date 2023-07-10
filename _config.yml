@@ -21,15 +21,14 @@ author: Darren Weng & Gabe Weng
 
 navbar-links:
   About Us: "about"
-  Blogs: "tags"
-  Researches/Projects: 
-    - Open Source: "opensource"
+  Committees: 
+    - Open Source: "/opensource"
     - Education: "education"
     - Healthcare: "healthcare"
     - Climate Change: "climate"
     - LGBTQ: "lgbtq"
     - Food Security: "food"
-
+  Blogs: "tags"
 ################
 # --- Logo --- #
 ################
