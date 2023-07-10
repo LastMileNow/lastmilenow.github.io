@@ -23,11 +23,12 @@ navbar-links:
   About Us: "about"
   Blogs: "tags"
   Researches/Projects: 
-    - Our Projects: "researches"
-    - LastMileNow Github: "https://github.com/LastMileNow"
-    - CiceroAI Github: "https://github.com/gabeweng/cicero"
-    - Chiron Github: "https://github.com/darrentweng/chiron"
-    - Aesculapius Github: "https://github.com/gabeweng/aesculapius-backend"
+    - Open Source: "opensource"
+    - Education: "education"
+    - Healthcare: "healthcare"
+    - Climate Change: "climate"
+    - LGBTQ: "lgbtq"
+    - Food Security: "food"
 
 ################
 # --- Logo --- #
