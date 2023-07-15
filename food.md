@@ -14,3 +14,11 @@ The communittee's tasks include:
 - Develop a food bank program to provide food to families in need
 - Advocate for policies that increase access to healthy food
 - Organize educational events about food insecurity
+
+
+## Committee Members
+
+
+| --- | --- |
+| [Gabriel Weng](https://www.gabrielweng.com) | Founding Member & President |
+| [Darren Weng](https://www.darrenweng.com) | Founding Member & Vice President |
