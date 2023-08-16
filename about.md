@@ -11,6 +11,7 @@ Last Mile Now is a non-profit tech and crowd-funding community that focuses on a
 
 There are plenty of resources and information online in eah areas, but finding the right information at the right time might be challanging due to factors such as language, education, habit.  We want to help people find the right information and benefit from them through chatbots, open-source projects, open data. 
 
+We believe a personalized chatbot that understand individual's need can.  We are committed to use technologies such as AI, chatbots, text messages and social media such as instagram, to provide an information delivery platform.
 
 
 ## Our Team
