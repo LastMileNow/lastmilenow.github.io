@@ -4,11 +4,13 @@ title: About Us
 subtitle: Who are we?
 ---
 
-Last Mile Now is a non-profit organization that provides free, on-demand, accessible services to low-income individuals and families. We are a group of students from the Staples High Schools who are passionate about using technology to help those in need.
 
 ## Our Mission
 
-We believe that everyone should have access to the same opportunities. We are committed to leverage the existing resources on the internet, and use technologies such as AI, chatbot and text messages and instagram to provide an information delivery platform in areas such as healthcare, education, and employment. We are currently working on our first pilot program in the Fairfield County area.
+Last Mile Now is a non-profit tech and crowd-funding community that focuses on accessibility issues in areas such as healthcare, education, climate, LGBTQ & Food Security.  
+
+There are plenty of resources and information online in eah areas, but finding the right information at the right time might be challanging due to factors such as language, education, habit.  We want to help people find the right information and benefit from them through chatbots, open-source projects, open data. 
+
 
 
 ## Our Team
