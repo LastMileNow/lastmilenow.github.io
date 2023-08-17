@@ -13,9 +13,11 @@ There are plenty of resources and information online in eah areas, but finding t
 
 We believe a personalized chatbot that understand individual's need can.  We are committed to use technologies such as AI, chatbots, text messages and social media such as instagram, to provide an information delivery platform.
 
+## How We Deliver
+
+In short, through working on open source projects that help the causes, and fund raising to sponsor the open source projects we think will further the causes. 
 
 ## Our Team
-
 
 | --- | --- |
 | [Darren Weng](https://www.darrenweng.com) | Founder and Business Development |
