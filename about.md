@@ -17,6 +17,8 @@ We believe a personalized chatbot that understand individual's need can.  We are
 
 In short, through working on open source projects that help the causes, and fund raising to sponsor the open source projects we think will further the causes. 
 
+Committees are set up in each area and each committee will have monthly and querterly meetins to discuss the open source projects to work on, or to sponsor. Fund raising events will also be discussed in each committee meeting.  
+
 ## Our Team
 
 | --- | --- |
