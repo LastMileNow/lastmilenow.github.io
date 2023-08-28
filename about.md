@@ -22,12 +22,6 @@ Committees are set up in each area and each committee will have monthly and quer
 ## Our Team
 
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg"  alt="Darren Weng" width=200/> 
-| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=200/> 
-| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=200/> 
-| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Leslie" width=200/> 
-| [Darren Weng](https://www.darrenweng.com) - Co-Founder and Business Development 
-| [Gabriel Weng](https://www.gabrielweng.com) -  Co-Founder and Tech Lead 
-| Jade Monarrez - Chief Marketing Officer
-| Leslie Gates - Chief Operating Officer
+| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg"  alt="Darren Weng" width=200/> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=200/> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=200/> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Leslie" width=200/> 
+| [Darren Weng](https://www.darrenweng.com) - Co-Founder and Business Development | [Gabriel Weng](https://www.gabrielweng.com) -  Co-Founder and Tech Lead | Jade Monarrez - Chief Marketing Officer| Leslie Gates - Chief Operating Officer
 |
