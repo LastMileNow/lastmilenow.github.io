@@ -19,9 +19,10 @@ In short, through working on open source projects that help the causes, and fund
 
 Committees are set up in each area and each committee will have monthly and querterly meetins to discuss the open source projects to work on, or to sponsor. Fund raising events will also be discussed in each committee meeting.  
 
-## Our Team
+## Our Teams
 
-| --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Leslie" width=250 /> 
-| [Darren Weng](https://www.darrenweng.com) - Co-Founder and CEO | [Gabriel Weng](https://www.gabrielweng.com) -  Co-Founder and CTO | Jade Monarrez - Chief Marketing Officer| Leslie Gates - Chief Operating Officer
-|
+| --- | --- | --- | --- |
+|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Leslie" width=250 /> |
+| [Darren Weng](https://www.darrenweng.com) - Co-Founder and CEO | [Gabriel Weng](https://www.gabrielweng.com) -  Co-Founder and CTO | Jade Monarrez - Chief Marketing Officer| Leslie Gates - Chief Operating Officer|
+|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="" width=250 /> |
+| Chloe Nevas - Co-Chair of Education Committee | Maxwell Tanksley -  Co-Chair of Climate Committee | Emma Alcyone - Co-Chair of LGBTQ Committee| Michael Brody - Co-Chair of Healthcare Committee|
