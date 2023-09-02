@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Source Committee
-subtitle: overseeing the organization's open source projects and funding public open sources
+subtitle: overseeing the organization's open source projects
 ---
 ## What we do
 ### Managing the development process
@@ -27,6 +27,8 @@ The committee raises awareness of open source software to the public. This inclu
 ## Committee Members
 
 
-| --- | --- |
-| [Gabriel Weng](https://www.gabrielweng.com)  | Founding Member & President |
-| [Darren Weng](https://www.darrenweng.com) | Founding Member & Vice President |
+## Committee Members
+
+| --- | --- | --- | --- |
+|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Leslie" width=250 /> |
+| [Darren Weng](https://www.darrenweng.com) - Founding Member | [Gabriel Weng](https://www.gabrielweng.com) -  Founding Member| ||
