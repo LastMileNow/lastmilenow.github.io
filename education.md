@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education Committee
-subtitle: conduct research on educational topics, sponsor edtech startups, donate to educational non-profits
+subtitle: Conduct research on educational topics, Sponsor EdTech startups, Donate to educational non-profits
 share-img:
 ---
 
