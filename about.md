@@ -22,5 +22,5 @@ Committees are set up in each area and each committee will have monthly and quer
 ## Our Team
 
 | --- | --- |
-| <img src="assets/img/darren_weng.jpg"  alt="Darren Weng" width=200/> | <img src="assets/img/gabeweng.jpg" alt="Gabe Weng" width=200/> |
+| <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg"  alt="Darren Weng" width=200/> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=200/> |
 [Darren Weng](https://www.darrenweng.com) Co-Founder and Business Development |[Gabriel Weng](https://www.gabrielweng.com)  Co-Founder and Tech Lead |
