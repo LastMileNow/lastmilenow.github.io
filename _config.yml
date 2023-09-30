@@ -29,7 +29,7 @@ navbar-links:
     - LGBTQ: "lgbtq"
     - Food Security: "food"
   Github: "https://github.com/LastMileNow"
-  Research: "researches"
+  Research: "/opensource/researches"
   # Blogs: "tags"
 ################
 # --- Logo --- #
