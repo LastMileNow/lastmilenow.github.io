@@ -24,5 +24,5 @@ Ultimately, the use of chatbots, open source, and technology can democratize acc
 ## Committee Members
 
 | --- | --- | --- | --- |
-|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Jade" width=250 />  |
-| [Darren Weng](https://www.darrenweng.com) - Co-Chair | Chloe Nevas - Co-Chair|||
+|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/CharlesLugo.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Jade" width=250 />  |
+| [Darren Weng](https://www.darrenweng.com) - Co-Chair | Charles Lugo - Co-Chair|Claim Your Spot - Co-Chair |Claim Your Spot - Co-Chair |
