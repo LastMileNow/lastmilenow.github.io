@@ -22,6 +22,6 @@ To address these issues, utilizing chatbots and open-source technologies can sig
 ## Committee Members
 
 | --- | --- | --- | --- |
-|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Jade" width=250 />  |
-| [Gabriel Weng](https://www.gabrielweng.com) - Co-Chair | Michael Brody - Co-Chair|Claim Your Spot - Co-Chair|Claim Your Spot - Co-Chair|
+|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/ReinaTrivedi.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Jade" width=250 />  |
+| [Gabriel Weng](https://www.gabrielweng.com) - Co-Chair | Reina Trivedi - Co-Chair|Claim Your Spot - Co-Chair|Claim Your Spot - Co-Chair|
 
