@@ -2,7 +2,7 @@
 
 LastMileNow is dedicated to solving the **"Last Mile" problem in AI**—bridging the gap between powerful models and everyday utility for non-technical users and small businesses (SMBs). 
 
-This repository contains the source code for the official website, built using [Jekyll](https://jekyllrb.com/) and the [Beautiful Jekyll](https://beautifuljekyll.com/) theme.
+This repository contains the source code for the official website, modernized with [Next.js](https://nextjs.org/) and [React](https://react.dev/).
 
 ## 🚀 Local Development
 
@@ -10,11 +10,8 @@ To run this website locally on your machine, follow these steps:
 
 ### Prerequisites
 
-1.  **Ruby**: Install Ruby (version 2.7 or higher recommended).
-2.  **Bundler**: Install Bundler by running:
-    ```bash
-    gem install bundler
-    ```
+1.  **Node.js**: Install Node.js (version 18 or higher recommended).
+2.  **npm**: Comes bundled with Node.js.
 
 ### Setup
 
@@ -26,25 +23,24 @@ To run this website locally on your machine, follow these steps:
 
 2.  **Install dependencies**:
     ```bash
-    bundle install
+    npm install
     ```
 
 3.  **Launch the website**:
     ```bash
-    bundle exec jekyll serve
+    npm run dev
     ```
 
 4.  **View in browser**:
     Once the server starts, open your browser and navigate to:
-    `http://localhost:4000`
+    `http://localhost:3000`
 
 ## 🛠 Project Structure
 
-*   `_posts/`: Blog posts and announcements.
-*   `_config.yml`: Website configuration and navigation settings.
-*   `about.md`: Information about our mission and team.
-*   `literacy.md`, `implementation.md`, `products.md`: Core initiative pages.
-*   `assets/`: Images, CSS, and JavaScript files.
+*   `app/`: Main application code, pages, and layout (Next.js App Router).
+*   `content/`: Markdown content for dynamic pages.
+*   `assets/`: Legacy assets (migrating to `public/`).
+*   `about.md`, `advocacy.md`, etc.: Core content pages.
 
 ## 📄 License
 
