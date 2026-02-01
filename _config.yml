@@ -21,13 +21,13 @@ author: Darren Weng & Gabe Weng
 
 navbar-links:
   About Us: "about"
-  Committees: 
-    - Open Source: "/opensource"
-    - Education: "education"
-    - Healthcare: "healthcare"
-    - Climate: "climate"
-    - LGBTQ: "lgbtq"
-    - Food Security: "food"
+  Initiatives:
+    - AI Driving School: "literacy"
+    - The AI Plumber: "implementation"
+    - Micro-SaaS Lab: "products"
+    - Open Source: "opensource"
+    - Trust & Security: "trust"
+    - Advocacy: "advocacy"
   Github: "https://github.com/LastMileNow"
   Research: "/opensource/researches"
   # Blogs: "tags"

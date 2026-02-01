@@ -16,7 +16,21 @@ We open-sourced four projects through it, so people working on similar projects 
 
 Later, we discovered that because open-source maintainers don’t get paid, many critical open-source projects lack resources to add features or even fix bugs. To address this, we decided to start recruiting non-coding members into LMN to help fundraise for a set of curated open-source projects that align with our goals—making education accessible.
 
-LMN will operate on a distributed model through committees. Committees are set up in each area and the members will have monthly or quarterly meetings to discuss the open source projects to work on or the ones to sponsor. 
+## Our Vision 3.0: The Last Mile AI Revolution
+
+The "Last Mile" problem in AI is currently the biggest bottleneck; powerful models exist, but the bridge to everyday utility for non-technical users and small businesses (SMBs) is often missing. 
+
+LastMileNow has evolved into a hybrid "tandem structure" that pursues mission-driven impact while building a sustainable implementation engine. 
+
+### The Non-Profit Arm (The Mission Engine)
+*Focus: Democratization, Education, Access, and Trust.*
+We focus on AI literacy, "AI Driving Schools" for SMBs, and senior citizen companionship. We develop local-first AI kits to protect privacy and advocate for "Data Dignity."
+
+### The For-Profit Arm (The Sustainability Engine)
+*Focus: Implementation, Customization, Managed Services, and Scale.*
+We provide "White Glove" onboarding (The AI Plumber) and build niche Micro-SaaS products for neglected industries, ensuring that small businesses aren't left behind in the AI race.
+
+LMN operates on a distributed model through specialized initiatives. We bridge the gap between legacy systems and modern LLMs, acting as the human-centric translator for the AI era.
  
 
 ## Our Teams
