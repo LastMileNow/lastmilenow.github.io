@@ -32,11 +32,3 @@ We provide "White Glove" onboarding (The AI Plumber) and build niche Micro-SaaS 
 
 LMN operates on a distributed model through specialized initiatives. We bridge the gap between legacy systems and modern LLMs, acting as the human-centric translator for the AI era.
  
-
-## Our Teams
-
-| --- | --- | --- | --- |
-|<img src="/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="/img/ReinaTrivedi.jpg" alt="Jade" width=250 /> | <img src="/img/JadeLan.jpg" alt="Leslie" width=250 /> |
-| [Darren Weng](https://www.darrenweng.com) - Founder,CEO | [Gabriel Weng](https://www.gabrielweng.com) - Founder,CTO | Reina Trivedi - Founding Member | Jade Lan - Founding Member |
-|<img src="/img/CharlesLugo.jpg" alt="" width=250 /> | <img src="/img/male_headshot.jpg" alt="" width=250 /> | <img src="/img/female_headshot.jpg" alt="" width=250 /> | <img src="/img/male_headshot.jpg" alt="" width=250 /> |
-| Charles Lugo - Founding Member | Claim Your Spot - Founding Member | Claim Your Spot - Founding Member| Claim Your Spot - Founding Member|
