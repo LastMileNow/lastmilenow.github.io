@@ -2,7 +2,7 @@
 layout: post
 title: Announcing LastMileNow Vision 3.0
 subtitle: Solving the "Last Mile" Problem in AI
-thumbnail-img: /assets/img/system2.jpg
+thumbnail-img: /img/system2.jpg
 tags: [announcement, vision, ai]
 ---
 

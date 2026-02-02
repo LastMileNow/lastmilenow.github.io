@@ -3,7 +3,7 @@ layout: post
 title: Vision 2.0
 subtitle: New Chapter of LMN
 cover-img: 
-thumbnail-img: /assets/img/committees_logo.jpg
+thumbnail-img: /img/committees_logo.jpg
 share-img: 
 tags: [chatbot, education, healthcare]
 ---

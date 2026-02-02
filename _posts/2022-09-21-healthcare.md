@@ -3,7 +3,7 @@ layout: post
 title: Healthcare
 subtitle: How to use chatbot and nlp to improve healthcare
 cover-img: 
-thumbnail-img: /assets/img/logo-white.png
+thumbnail-img: /img/logo-white.png
 share-img: 
 tags: [chatbot, healthcare]
 ---

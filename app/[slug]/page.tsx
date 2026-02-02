@@ -19,7 +19,7 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
   }
 
   const processedContent = await remark()
-    .use(html)
+    .use(html, { sanitize: false })
     .process(pageData.content)
   const contentHtml = processedContent.toString()
 

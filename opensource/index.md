@@ -26,5 +26,5 @@ We advocate for the use of open-source models as a way to maintain "Data Dignity
 ## Committee Members
 
 | --- | --- | --- | --- |
-|<img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/female_headshot.jpg" alt="Jade" width=250 /> | <img src="https://raw.githubusercontent.com/LastMileNow/lastmilenow.github.io/main/assets/img/male_headshot.jpg" alt="Leslie" width=250 /> |
+|<img src="/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> | <img src="/img/female_headshot.jpg" alt="Jade" width=250 /> | <img src="/img/male_headshot.jpg" alt="Leslie" width=250 /> |
 | [Darren Weng](https://www.darrenweng.com) - Founding Member | [Gabriel Weng](https://www.gabrielweng.com) -  Founding Member|Claim Your Spot - Co-Chair|Claim Your Spot - Co-Chair|

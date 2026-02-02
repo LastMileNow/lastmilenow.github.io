@@ -14,7 +14,7 @@ export default async function OpenSourcePage() {
     const matterResult = matter(fileContents)
 
     const processedContent = await remark()
-        .use(html)
+        .use(html, { sanitize: false })
         .process(matterResult.content)
     const contentHtml = processedContent.toString()
 

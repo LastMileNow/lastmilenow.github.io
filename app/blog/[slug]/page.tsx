@@ -12,7 +12,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
   const postData = await getPostData(slug)
 
   const processedContent = await remark()
-    .use(html)
+    .use(html, { sanitize: false })
     .process(postData.content)
   const contentHtml = processedContent.toString()
 

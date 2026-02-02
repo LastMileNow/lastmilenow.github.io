@@ -3,7 +3,7 @@ layout: post
 title: Education
 subtitle: Making education more accessible with chatbot and text messaging
 cover-img: 
-thumbnail-img: /assets/img/edu_chatbot.jpg
+thumbnail-img: /img/edu_chatbot.jpg
 share-img: 
 tags: [chatbot, education]
 ---

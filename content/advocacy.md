@@ -27,6 +27,3 @@ In partnership with our [Trust & Security](/trust/) team, we advocate for "Priva
 ### Get Involved
 Join our advocacy efforts to shape the future of AI policy. We are looking for researchers, policy experts, and community organizers to help us build a more equitable AI landscape.
 
-| --- | --- | --- | --- |
-| <img src="/assets/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="/assets/img/male_headshot.jpg" alt="Advocacy Lead" width=250 /> | <img src="/assets/img/female_headshot.jpg" alt="Policy Research" width=250 /> | <img src="/assets/img/male_headshot.jpg" alt="Volunteer" width=250 /> |
-| [Darren Weng](https://www.darrenweng.com) - Advocacy Lead | Claim Your Spot - Policy Research | Claim Your Spot - Community Outreach | Claim Your Spot - Volunteer |

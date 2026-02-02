@@ -3,7 +3,7 @@ layout: post
 title: Personalized Voice
 subtitle: Familiar voices can improve communication
 cover-img: 
-thumbnail-img: /assets/img/yourvoice.jpg
+thumbnail-img: /img/yourvoice.jpg
 share-img: 
 tags: [chatbot]
 ---

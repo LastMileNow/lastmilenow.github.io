@@ -13,7 +13,7 @@ export default async function ResearchPage() {
     const matterResult = matter(fileContents)
 
     const processedContent = await remark()
-        .use(html)
+        .use(html, { sanitize: false })
         .process(matterResult.content)
     const contentHtml = processedContent.toString()
 

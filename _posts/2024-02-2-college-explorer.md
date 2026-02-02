@@ -3,7 +3,7 @@ layout: post
 title: College Explorer
 subtitle: Power to the Students
 cover-img: 
-thumbnail-img: /assets/img/college_explorer.jpg
+thumbnail-img: /img/college_explorer.jpg
 share-img: 
 tags: [education]
 ---
