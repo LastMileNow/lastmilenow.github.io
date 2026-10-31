@@ -1,13 +1,27 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 export default function MobileNav() {
     const [open, setOpen] = useState(false)
+    const toggleRef = useRef<HTMLButtonElement>(null)
+
+    useEffect(() => {
+        if (!open) return
+        const onKeyDown = (e: KeyboardEvent) => {
+            if (e.key === 'Escape') {
+                setOpen(false)
+                toggleRef.current?.focus()
+            }
+        }
+        document.addEventListener('keydown', onKeyDown)
+        return () => document.removeEventListener('keydown', onKeyDown)
+    }, [open])
 
     return (
         <>
             <button
+                ref={toggleRef}
                 type="button"
                 className="nav-toggle"
                 aria-label={open ? 'Close menu' : 'Open menu'}
