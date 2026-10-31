@@ -14,7 +14,7 @@ We open-sourced projects through it, so people working on similar projects don�
 
 ## Our Vision 2.0
 
-Later, we discovered that because open-source maintainers don’t get paid, many critical open-source projects lack resources to add features or even fix bugs. To address this, we decided to start recruiting non-coding members into LMN to help fundraise for a set of curated open-source projects that align with our goals—making education accessible.
+Later, we discovered that because open-source maintainers don’t get paid, many critical open-source projects lack resources to add features or even fix bugs. To address this, we decided to start recruiting non-coding members into LMN to help support a set of curated open-source projects that align with our goals—making education accessible.
 
 ## Our Vision 3.0: The Last Mile AI Revolution
 

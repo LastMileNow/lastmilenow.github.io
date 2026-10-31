@@ -20,6 +20,6 @@ We open-sourced four projects through it, so people working on similar projects 
 
 ## Our Vision 2.0
 
-Later, we discovered that because open-source maintainers don’t get paid, many critical open-source projects lack resources to add features or even fix bugs. To address this, we decided to start recruiting non-coding members into LMN to help fundraise for a set of curated open-source projects that align with our goals—making education accessible.
+Later, we discovered that because open-source maintainers don’t get paid, many critical open-source projects lack resources to add features or even fix bugs. To address this, we decided to start recruiting non-coding members into LMN to help support a set of curated open-source projects that align with our goals—making education accessible.
 
-LMN will operate on a distributed model through committees. Committees are set up in each area and the members will have monthly or quarterly meetings to discuss the open source projects to work on or the ones to sponsor. 
+LMN will operate on a distributed model through committees. Committees are set up in each area and the members will have monthly or quarterly meetings to discuss the open source projects to work on or the ones to support. 

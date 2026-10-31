@@ -8,9 +8,9 @@ share-img:
 tags: [chatbot, education]
 ---
 
-"Last Mile Now" uses chatbots and text messaging to make education more accessible to low-income communities. The organization aims to leverages these technologies to provide students with access to educational resources and information in real-time, helping to bridge the digital divide and reduce educational disparities.
+"Last Mile Now" explores how chatbots and text messaging could make education more accessible to low-income communities. The organization could leverage these technologies to provide students with access to educational resources and information in real-time, helping to bridge the digital divide and reduce educational disparities.
 
-Through its usage of personalized chatbots and text messaging services, "Last Mile Now" provides students with information about educational opportunities and resources, such as tutoring and study materials, as well as access to virtual educational resources, such as online courses and libraries. Additionally, the organization uses these technologies to connect students with mentors and tutors, providing students with additional support and guidance as they navigate their educational journey.
+Through personalized chatbots and text messaging services, "Last Mile Now" could provide students with information about educational opportunities and resources, such as tutoring and study materials, as well as access to virtual educational resources, such as online courses and libraries. Additionally, the organization could use these technologies to connect students with mentors and tutors, providing students with additional support and guidance as they navigate their educational journey.
 
 In addition to chatbots, below are some ideas Last Mile Now will explore further.
 

@@ -9,7 +9,7 @@ subtitle: Democratizing AI Literacy for Everyone
 We believe that the power of AI should be accessible to everyone, not just those with technical degrees. Our "AI Driving School" initiative is focused on humanizing technology.
 
 #### "AI Driving School" for SMBs
-We teach small business owners (plumbers, accountants, florists) how to actually *use* generative AI for tangible tasks. 
+We aim to teach small business owners (plumbers, accountants, florists) how to actually *use* generative AI for tangible tasks. 
 *   **Customer Communication:** Writing polite but firm collection emails.
 *   **Marketing:** Generating engaging social media captions and local ad copy.
 *   **Operations:** Automating repetitive administrative tasks without complex code.
