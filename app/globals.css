@@ -300,8 +300,10 @@ h6 {
         flex-direction: column;
         gap: 0;
         padding: 0.5rem 2rem 1rem;
-        background: var(--background);
-        border-bottom: 1px solid var(--glass-border);
+        background-color: var(--background);
+        border-bottom: 1px solid var(--card-border);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+        z-index: 200;
     }
 
     .nav-links.nav-links-open {
