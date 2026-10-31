@@ -508,3 +508,18 @@ h6 {
         padding: 1.25rem;
     }
 }
+
+@media (max-width: 640px) {
+    .footer-content {
+        flex-direction: column;
+        gap: 1.5rem;
+        text-align: center;
+        padding: 3rem 1.5rem;
+    }
+
+    .social-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1.5rem;
+    }
+}
