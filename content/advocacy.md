@@ -1,29 +1,23 @@
 ---
 layout: page
-title: Advocacy & Policy
-subtitle: Fighting for AI Equity and Data Dignity
+title: Our Perspective
+subtitle: Equity and Data Dignity in AI
 ---
 
 ### Protecting the "Last Mile" Workforce
 
-As AI transforms the economy, we advocate for the individuals and small businesses who are most affected by the transition. Our goal is to ensure that the "Last Mile" of AI deployment is equitable, safe, and empowering.
+As AI transforms the economy, we care about the individuals and small businesses most affected by the transition. We hope the "Last Mile" of AI deployment can be equitable, safe, and empowering.
 
 #### Data Dignity for SMBs
-We lobby for rights regarding how small business data is used to train larger models. Your business's expertise and localized knowledge shouldn't be extracted without your consent or compensation. We believe in a future where SMBs own their digital footprint.
+We believe small businesses should have a say in how their data is used to train larger models. Your business's expertise and localized knowledge shouldn't be extracted without your consent.
 
-#### AI Safety Nets & Labor Impact
-We conduct research on how AI impacts local labor markets. Our goal is to ensure the "last mile" workforce—the delivery drivers, the technicians, and the front-office staff—is **augmented** by AI, not just replaced by it. We advocate for policies that provide retraining and support for those in transition.
+#### Labor Impact
+We are interested in how AI affects local labor markets, and we hope the "last mile" workforce, such as delivery drivers, technicians, and front-office staff, is **augmented** by AI, not just replaced by it.
 
 #### Open Standards for Access
-We advocate for the adoption of open-source models and [Standardized Data Connectors](/opensource/) to prevent vendor lock-in. Small businesses should have the freedom to move their data between different AI providers without technical barriers.
+We believe in open-source models and [open data connectors](/opensource/) as a way to avoid vendor lock-in. Small businesses should be able to move their data between AI providers without technical barriers.
 
-#### Privacy as a Human Right
-In partnership with our [Trust & Security](/trust/) team, we advocate for "Privacy by Default." This includes support for local-first AI and transparency requirements for how public models handle sensitive user data.
+#### Privacy
+We believe in "Privacy by Default," including local-first AI and transparency about how public models handle sensitive user data. See our [Trust & Security](/trust/) page.
 
-> "The 'Last Mile' is about more than just technology—it's about the people and businesses that form the backbone of our economy. We are here to ensure they have a seat at the table."
-
----
-
-### Get Involved
-Join our advocacy efforts to shape the future of AI policy. We are looking for researchers, policy experts, and community organizers to help us build a more equitable AI landscape.
-
+> "The 'Last Mile' is about more than just technology—it's about the people and businesses that form the backbone of our economy."

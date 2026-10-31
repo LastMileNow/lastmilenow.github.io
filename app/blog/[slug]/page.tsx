@@ -1,4 +1,4 @@
-import { getPostData, getAllPostIds } from '@/lib/posts'
+import { getPostData, getAllPostIds, getPostDate } from '@/lib/posts'
 import { remark } from 'remark'
 import html from 'remark-html'
 
@@ -22,7 +22,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
         <h1 className="post-title">{postData.title}</h1>
         {postData.subtitle && <p className="post-subtitle">{postData.subtitle}</p>}
         <div className="post-meta">
-          <span>{slug.substring(0, 10)}</span>
+          <span>{getPostDate(slug)}</span>
           {postData.tags && (
             <div className="tags">
               {postData.tags.map((tag: string) => (

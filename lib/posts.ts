@@ -41,6 +41,14 @@ export function getSortedPostsData() {
     })
 }
 
+// Parse YYYY-M-D from the start of a post id and return a zero-padded YYYY-MM-DD
+export function getPostDate(id: string): string {
+    const match = id.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/)
+    if (!match) return ''
+    const [, year, month, day] = match
+    return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`
+}
+
 export function getAllPostIds() {
     if (!fs.existsSync(postsDirectory)) return []
     const fileNames = fs.readdirSync(postsDirectory)

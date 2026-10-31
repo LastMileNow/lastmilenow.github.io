@@ -1,13 +1,31 @@
-import { getPageData } from '@/lib/pages'
 import Link from 'next/link'
-import { Rocket, GraduationCap, PenTool, Database, Shield, MessageSquare } from 'lucide-react'
+import { GraduationCap, PenTool, Shield, MessageSquare } from 'lucide-react'
 
 const initiativeSlugs = [
-    { slug: 'literacy', title: 'AI Driving School', icon: GraduationCap },
-    { slug: 'implementation', title: 'The AI Plumber', icon: PenTool },
-    { slug: 'products', title: 'Micro-SaaS Lab', icon: Rocket },
-    { slug: 'trust', title: 'Trust & Security', icon: Shield },
-    { slug: 'advocacy', title: 'Advocacy', icon: MessageSquare }
+    {
+        slug: 'literacy',
+        title: 'AI Driving School',
+        icon: GraduationCap,
+        description: 'Teaching small business owners and seniors to use generative AI for everyday tasks.',
+    },
+    {
+        slug: 'implementation',
+        title: 'AI Implementation',
+        icon: PenTool,
+        description: 'Helping owners understand what it takes to connect AI tools to the software they already use.',
+    },
+    {
+        slug: 'trust',
+        title: 'Trust & Security',
+        icon: Shield,
+        description: 'Practical habits for choosing and using AI tools safely and privately.',
+    },
+    {
+        slug: 'advocacy',
+        title: 'Our Perspective',
+        icon: MessageSquare,
+        description: 'Where we stand on data dignity, open standards, privacy, and AI’s impact on workers.',
+    },
 ]
 
 export default function InitiativesPage() {
@@ -18,13 +36,12 @@ export default function InitiativesPage() {
                 <p className="page-subtitle">Mission-driven projects solving the Last Mile problem.</p>
             </header>
 
-            <div className="bento-grid" style={{ marginTop: '4rem' }}>
+            <div className="bento-grid bento-grid-2" style={{ marginTop: '4rem' }}>
                 {initiativeSlugs.map((init) => (
                     <Link href={`/${init.slug}`} key={init.slug} className="card">
                         <init.icon className="icon" color="var(--accent)" />
                         <h3>{init.title}</h3>
-                        {/* We could fetch excerpts here if we wanted */}
-                        <p>Click to learn more about our work in {init.title.toLowerCase()}.</p>
+                        <p>{init.description}</p>
                         <span style={{ color: 'var(--accent)', fontWeight: 600, marginTop: '1rem', display: 'block' }}>View Details →</span>
                     </Link>
                 ))}

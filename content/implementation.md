@@ -1,20 +1,19 @@
 ---
 layout: page
-title: The AI Plumber
-subtitle: Managed Implementation Services for the Real World
+title: AI Implementation
+subtitle: Understanding What It Takes to Put AI to Work
 ---
 
-### Managed Implementation: Bridging the Gap
+### Bridging the Gap
 
-Many businesses know they *should* use AI, but don't know *how* to start. We don't just sell software; we provide the "plumbing" to make it work in your specific environment.
+Many businesses know they *should* use AI, but don't know *how* to start. Our role is education: helping owners understand what to ask, what to expect, and what to watch out for.
 
-#### "White Glove" Onboarding
-We go directly into small businesses to set up AI agents, integrate them with existing email/calendar systems, and provide hands-on training for the staff. We handle the technical friction so you can focus on your business.
+#### What We Teach
+*   How to think about connecting AI tools to the email, calendar, and accounting software you already use.
+*   What it means to review AI output and step in when it gets stuck or gets something wrong.
+*   Why legacy software (such as older desktop accounting tools and CRMs) can make adopting AI harder, and what questions to ask.
 
-#### Fractional AI Officer
-For businesses that need ongoing support but aren't ready for a full-time hire, we offer a subscription service. An expert human monitors your AI systems, intervening only when the AI gets stuck or hallucinates, ensuring 99.9% reliability for your automated workflows.
+#### Paid, Hands-On Implementation
+Organizations that want paid, hands-on implementation can work with [AspireWork](https://aspirework.com).
 
-#### Bridging Legacy Systems
-We build the "API glue" between legacy SMB software (QuickBooks Desktop, older CRMs) and modern LLMs. Your data shouldn't be a barrier to innovation.
-
-> "We are the plumbers of the AI era, ensuring the data flows smoothly and the tools work exactly where they are needed."
+> "The goal is to help people understand AI well enough to make good decisions about it."

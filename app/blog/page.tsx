@@ -1,4 +1,4 @@
-import { getSortedPostsData } from '@/lib/posts'
+import { getSortedPostsData, getPostDate } from '@/lib/posts'
 import Link from 'next/link'
 
 export default function BlogPage() {
@@ -10,7 +10,7 @@ export default function BlogPage() {
       <div className="posts-grid">
         {allPostsData.map(({ id, title, subtitle }) => (
           <Link href={`/blog/${id}`} key={id} className="card post-card">
-            <span className="post-date">{id.substring(0, 10)}</span>
+            <span className="post-date">{getPostDate(id)}</span>
             <h2>{title}</h2>
             {subtitle && <p>{subtitle}</p>}
             <span className="read-more">Read More →</span>

@@ -8,7 +8,7 @@ subtitle: Who are we?
 
 Last Mile Now started as an open source organization with the aim of solving the “last mile issue”, the most expensive and difficult part of any product deployment in technology. There is a vast amount of great resources and information online, but delivering them at the right time to the right person might be challenging due to factors such as languages spoken, education level, habits, etc. We wanted to change that.
 
-We believe a personalized chatbot that understands individual's needs can unleash the potential of the internet for everyone. In the US, on average, a person spends 2 hours and 31 minutes daily on social media and text apps. We are committed to using technologies such as AI, chatbots, text messages, and social media such as Instagram to create an effective information delivery platform.
+We believe a personalized chatbot that understands individual's needs can unleash the potential of the internet for everyone. We are committed to using technologies such as AI, chatbots, text messages, and social media such as Instagram to create an effective information delivery platform.
 
 We open-sourced four projects through it, so people working on similar projects don’t have to start from scratch. 
 
@@ -20,15 +20,14 @@ Later, we discovered that because open-source maintainers don’t get paid, many
 
 The "Last Mile" problem in AI is currently the biggest bottleneck; powerful models exist, but the bridge to everyday utility for non-technical users and small businesses (SMBs) is often missing. 
 
-LastMileNow has evolved into a hybrid "tandem structure" that pursues mission-driven impact while building a sustainable implementation engine. 
+LastMileNow teaches AI to small businesses and seniors, in plain language and with a focus on practical, everyday use.
 
-### The Non-Profit Arm (The Mission Engine)
-*Focus: Democratization, Education, Access, and Trust.*
-We focus on AI literacy, "AI Driving Schools" for SMBs, and senior citizen companionship. We develop local-first AI kits to protect privacy and advocate for "Data Dignity."
+### What We Do
+*Focus: Education, Access, and Trust.*
+We focus on AI literacy, "AI Driving Schools" for SMBs, and senior citizen companionship. We also explore local-first AI to protect privacy and care about "Data Dignity."
 
-### The For-Profit Arm (The Sustainability Engine)
-*Focus: Implementation, Customization, Managed Services, and Scale.*
-We provide "White Glove" onboarding (The AI Plumber) and build niche Micro-SaaS products for neglected industries, ensuring that small businesses aren't left behind in the AI race.
+### Paid Implementation
+Organizations that want paid, hands-on implementation can work with [AspireWork](https://aspirework.com).
 
-LMN operates on a distributed model through specialized initiatives. We bridge the gap between legacy systems and modern LLMs, acting as the human-centric translator for the AI era.
+LMN works through specialized initiatives, aiming to bridge the gap between legacy systems and modern LLMs as a human-centric translator for the AI era.
  
