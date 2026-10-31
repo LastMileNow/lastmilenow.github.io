@@ -17,5 +17,5 @@ We plan to build open-source connectors that allow mom-and-pop shops to safely p
 We advocate for the use of open-source models as a way to maintain "Data Dignity" and prevent vendor lock-in for small businesses.
 
 ## Our Projects
-- [Our Researches](researches)
+- [Our Researches](/opensource/researches)
 - [LastMileNow Github](https://github.com/LastMileNow)

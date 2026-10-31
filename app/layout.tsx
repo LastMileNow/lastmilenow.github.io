@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import MobileNav from './MobileNav'
 
 export const metadata: Metadata = {
     title: 'Last Mile Now | Bridging the AI Gap',
@@ -24,12 +25,7 @@ export default function RootLayout({
                         <div className="logo">
                             <span className="gradient-text font-bold text-xl">LastMileNow</span>
                         </div>
-                        <div className="nav-links">
-                            <a href="/">Home</a>
-                            <a href="/about">About</a>
-                            <a href="/initiatives">Initiatives</a>
-                            <a href="/blog">Blog</a>
-                        </div>
+                        <MobileNav />
                     </div>
                 </nav>
                 <main>{children}</main>

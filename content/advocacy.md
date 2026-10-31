@@ -15,9 +15,9 @@ We believe small businesses should have a say in how their data is used to train
 We are interested in how AI affects local labor markets, and we hope the "last mile" workforce, such as delivery drivers, technicians, and front-office staff, is **augmented** by AI, not just replaced by it.
 
 #### Open Standards for Access
-We believe in open-source models and [open data connectors](/opensource/) as a way to avoid vendor lock-in. Small businesses should be able to move their data between AI providers without technical barriers.
+We believe in open-source models and [open data connectors](/opensource) as a way to avoid vendor lock-in. Small businesses should be able to move their data between AI providers without technical barriers.
 
 #### Privacy
-We believe in "Privacy by Default," including local-first AI and transparency about how public models handle sensitive user data. See our [Trust & Security](/trust/) page.
+We believe in "Privacy by Default," including local-first AI and transparency about how public models handle sensitive user data. See our [Trust & Security](/trust) page.
 
 > "The 'Last Mile' is about more than just technology—it's about the people and businesses that form the backbone of our economy."
