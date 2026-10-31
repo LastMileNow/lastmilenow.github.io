@@ -10,7 +10,7 @@ Last Mile Now started as an open source organization with the aim of solving the
 
 We believe a personalized chatbot that understands individual's needs can unleash the potential of the internet for everyone. We are committed to using technologies such as AI, chatbots, text messages, and social media such as Instagram to create an effective information delivery platform.
 
-We open-sourced four projects through it, so people working on similar projects don’t have to start from scratch. 
+We open-sourced projects through it, so people working on similar projects don’t have to start from scratch. 
 
 ## Our Vision 2.0
 
