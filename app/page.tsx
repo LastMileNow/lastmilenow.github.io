@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { ArrowRight, Code, Shield, BookOpen, Heart, Zap } from 'lucide-react'
+import { ArrowRight, Code, Shield, Heart, Zap } from 'lucide-react'
 
 export default function Home() {
   return (
@@ -26,7 +26,7 @@ export default function Home() {
 
       {/* Arm Overview */}
       <section className="container sections-grid">
-        <div className="card">
+        <div className="card" style={{ maxWidth: '640px', margin: '0 auto', gridColumn: '1 / -1' }}>
           <Heart className="icon" color="var(--accent)" />
           <h3>Teaching AI</h3>
           <p>Education, Access, and Trust for small businesses and seniors.</p>
@@ -35,14 +35,6 @@ export default function Home() {
             <li>Senior Citizen Companionship</li>
             <li>Open Source Public Goods</li>
           </ul>
-        </div>
-        <div className="card">
-          <BookOpen className="icon" color="var(--accent-secondary)" />
-          <h3>Need Hands-On Help?</h3>
-          <p>
-            Organizations that want paid, hands-on implementation can work with{' '}
-            <a href="https://aspirework.com" style={{ color: 'var(--accent)', fontWeight: 600 }}>AspireWork</a>.
-          </p>
         </div>
       </section>
 

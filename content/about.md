@@ -26,8 +26,5 @@ LastMileNow teaches AI to small businesses and seniors, in plain language and wi
 *Focus: Education, Access, and Trust.*
 We focus on AI literacy, "AI Driving Schools" for SMBs, and senior citizen companionship. We also explore local-first AI to protect privacy and care about "Data Dignity."
 
-### Paid Implementation
-Organizations that want paid, hands-on implementation can work with [AspireWork](https://aspirework.com).
-
 LMN works through specialized initiatives, aiming to bridge the gap between legacy systems and modern LLMs as a human-centric translator for the AI era.
  

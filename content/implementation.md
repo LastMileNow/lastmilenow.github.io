@@ -13,7 +13,7 @@ Many businesses know they *should* use AI, but don't know *how* to start. Our ro
 *   What it means to review AI output and step in when it gets stuck or gets something wrong.
 *   Why legacy software (such as older desktop accounting tools and CRMs) can make adopting AI harder, and what questions to ask.
 
-#### Paid, Hands-On Implementation
-Organizations that want paid, hands-on implementation can work with [AspireWork](https://aspirework.com).
+#### Paid Implementation
+For paid implementation, organizations may hire any qualified implementation provider. Last Mile Now does not receive referral fees.
 
 > "The goal is to help people understand AI well enough to make good decisions about it."

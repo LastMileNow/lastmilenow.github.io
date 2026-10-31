@@ -19,10 +19,3 @@ We advocate for the use of open-source models as a way to maintain "Data Dignity
 ## Our Projects
 - [Our Researches](researches)
 - [LastMileNow Github](https://github.com/LastMileNow)
-
-
-## Committee Members
-
-|<img src="/img/darren_weng.jpg" alt="Darren Weng" width=250 /> | <img src="/img/gabeweng.jpg" alt="Gabe Weng" width=250 /> |
-| --- | --- |
-| [Darren Weng](https://www.darrenweng.com) - Founding Member | [Gabriel Weng](https://www.gabrielweng.com) -  Founding Member |

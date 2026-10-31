@@ -19,8 +19,6 @@ Our new mission centers on education, access, and trust:
 *   **AI Driving School:** AI literacy for SMBs and senior citizen AI companionship.
 *   **Open source and public goods:** Local-first AI kits and standardized data connectors.
 
-Organizations that want paid, hands-on implementation can work with [AspireWork](https://aspirework.com).
-
 ### Why now?
 
 The "Last Mile" is the most expensive and difficult part of any technology deployment. In the AI era, this is where the real value is created—not just in the models themselves, but in how they are integrated into the daily lives of people who aren't technical experts.
