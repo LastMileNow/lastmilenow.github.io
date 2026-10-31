@@ -33,6 +33,7 @@ export default function RootLayout({
                     <div className="container footer-content">
                         <p>&copy; {new Date().getFullYear()} Last Mile Now. All rights reserved.</p>
                         <div className="social-links">
+                            <a href="/contact">Contact</a>
                             <a href="https://github.com/LastMileNow">GitHub</a>
                             <a href="https://linkedin.com/company/lastmilenow">LinkedIn</a>
                         </div>

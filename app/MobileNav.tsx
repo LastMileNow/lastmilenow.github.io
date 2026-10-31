@@ -44,6 +44,7 @@ export default function MobileNav() {
                 <a href="/about">About</a>
                 <a href="/initiatives">Initiatives</a>
                 <a href="/blog">Blog</a>
+                <a href="/contact">Contact</a>
             </div>
         </>
     )
